@@ -38,7 +38,7 @@ void EspressoBased::operator= (const EspressoBased& esp) {
 
 // Member functions
 void EspressoBased::brew() {
-    
+    // TODO
 }
 
 std::string EspressoBased::get_name() {
