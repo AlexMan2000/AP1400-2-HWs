@@ -61,6 +61,10 @@ class UniquePtr {
         }
 
 
+        // Parametrized Version, take a pointer
+        void reset() {
+
+        }
 
 
         // Destructor
